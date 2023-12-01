@@ -1,2 +1,3 @@
+#new image
 FROM ubuntu
 
